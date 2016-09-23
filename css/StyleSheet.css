@@ -1,0 +1,45 @@
+﻿.welcome p span{
+    font-size:5em;
+    color:#31739f;
+}
+.welcome p{
+    font-size:1.2em;
+    color:#2e2b2b;
+}
+.slider img{
+    width:100%;
+}
+
+footer{
+    background:#2e2b2b;
+    padding:20px 0px;
+    color:#fff;
+}
+footer ul{
+    list-style:none;
+}
+footer ul li{
+    margin:10px 0px;
+}
+footer ul li a{
+    color:#fff;
+}
+footer ul li a:hover{
+    color:#ebe7e7;
+}
+footer li h2{
+    font-size:1.5em;
+    padding:5px 0px;
+    background:#424141;
+}
+.sigin-form{
+    background:#2c3e50;
+    padding:20px 0px;
+    color:#fff;
+}
+.sigin p{
+    font-size:1.3em;
+}
+.text-size{
+    font-size:1.2em;
+}
